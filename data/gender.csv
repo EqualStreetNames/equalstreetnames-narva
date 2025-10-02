@@ -1,4 +1,39 @@
 name,source,gender,wikidata,type
+Betooni,wikidata,-,Q22657,way
+Energia,wikidata,-,Q11379,way
+"Fama põik",wikidata,-,Q25517819,way
+"Fama tänav",wikidata,-,Q25517819,relation
+Haigla,wikidata,-,Q42900897,way
+"Jaama plats",wikidata,-,Q55488,way
+Kanepi,wikidata,-,Q79817,way
+"Kooli põik",wikidata,-,Q3914,way
+Kose,wikidata,-,Q97235007,way
+"Kosmonaudi tänav",wikidata,-,Q11631,relation
+Kraavi,wikidata,-,Q2048319,way
+"Kulgu tänav",wikidata,-,Q18624951,relation
+Lasteaia,wikidata,-,Q126807,way
+Liiva,wikidata,-,Q34679,way
+Lina,wikidata,-,Q45108,way
+Mängu,wikidata,-,Q11410,way
+Männiku,wikidata,-,Q1740919,way
+"Metsa tänav",wikidata,-,Q4421,relation
+"Mõisa tänav",wikidata,-,Q25517004,relation
+Moonalao,wikidata,-,Q2153495,way
+Õhu,wikidata,-,Q7391292,way
+Paju,wikidata,-,Q36050,way
+Palli,wikidata,-,Q1740919,way
+Peaalajaama,wikidata,-,Q111903059,way
+Proletariaadi,wikidata,-,Q132603,way
+"Rahvavälja tänav",wikidata,-,Q111889036,relation
+"Savi tänav",wikidata,-,Q42302,relation
+"Sepa põik",wikidata,-,Q1639825,way
+Soldina,wikidata,-,Q989554,relation+way
+Staadioni,wikidata,-,Q483110,way
+Tekstiili,wikidata,-,Q28823,way
+Turu,wikidata,-,Q330284,way
+Vaeselapse,wikidata,-,Q193279,way
+"Vahtra tänav",wikidata,-,Q42292,relation
+Viru,wikidata,-,Q1503237,way
 Koidula,wikidata,F,Q237056,way
 "A. Hahni trepp",wikidata,M,Q23942735,way
 "Aleksander Puškini",wikidata,M,Q7200,way
